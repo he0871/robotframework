@@ -1,2 +1,2 @@
 # robotframework
-practive
+practice
